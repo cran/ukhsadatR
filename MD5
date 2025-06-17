@@ -1,0 +1,14 @@
+80698497680b82b7b44a0885573cf68e *DESCRIPTION
+1ed92c68feb1fae3d0e7b737ea2c702e *LICENSE
+0ae476fad59453184133927aae713948 *NAMESPACE
+3365c9afe2783546576b07f7e3447477 *NEWS.md
+cc836da0dcd214457069494821d86add *R/functions.R
+77fa21b4a6c831b577c0a4e433e248f0 *README.md
+c9ae4c436ddc676e1b4a6a68d7c80c67 *build/vignette.rds
+e5a5a48a34aec1077193d77942df628f *inst/doc/ukhsadatR.R
+fc8fbcdef7007add9b74e4ad4806fd65 *inst/doc/ukhsadatR.Rmd
+425f9e38af86c6d934142675b0f457eb *inst/doc/ukhsadatR.html
+6a7a2a3e627bb6d194622ced866de954 *man/get_data.Rd
+6694de983a40e1f27e3c9fd433f4ee23 *man/get_paginated_data.Rd
+ce3095ef1b2bb02ba6afa696003f430d *tests/testthat/test-validation.R
+fc8fbcdef7007add9b74e4ad4806fd65 *vignettes/ukhsadatR.Rmd
